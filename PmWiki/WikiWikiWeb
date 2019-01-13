@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Internet Exlorer 6 in quirks mode -->
+<html>
+<head>
+	<title>Genesee Valley Calligraphy Guild -  - Wiki Wiki Web</title>
+	
+<!--HTMLHeader--><style type='text/css'><!--
+  ul, ol, pre, dl, p { margin-top:0px; margin-bottom:0px; }
+  code.escaped { white-space: nowrap; }
+  .vspace { margin-top:1.33em; }
+  .indent { margin-left:40px; }
+  .outdent { margin-left:40px; text-indent:-40px; }
+  a.createlinktext { text-decoration:none; border-bottom:1px dotted gray; }
+  a.createlink { text-decoration:none; position:relative; top:-0.5em;
+    font-weight:bold; font-size:smaller; border-bottom:none; }
+  img { border:0px; }
+  .editconflict { color:green; 
+  font-style:italic; margin-top:1.33em; margin-bottom:1.33em; }
+ 
+     #rightbar { display:none }  
+   #sidebarsearch {display:none} 
+
+  table.markup { border:2px dotted #ccf; width:90%; }
+  td.markup1, td.markup2 { padding-left:10px; padding-right:10px; }
+  table.vert td.markup1 { border-bottom:1px solid #ccf; }
+  table.horiz td.markup1 { width:23em; border-right:1px solid #ccf; }
+  table.markup caption { text-align:left; }
+  div.faq p, div.faq pre { margin-left:2em; }
+  div.faq p.question { margin:1em 0 0.75em 0; font-weight:bold; }
+  div.faqtoc div.faq * { display:none; }
+  div.faqtoc div.faq p.question 
+    { display:block; font-weight:normal; margin:0.5em 0 0.5em 20px; line-height:normal; }
+  div.faqtoc div.faq p.question * { display:inline; }
+   
+    .frame 
+      { border:1px solid #cccccc; padding:4px; background-color:#f9f9f9; }
+    .lfloat { float:left; margin-right:0.5em; }
+    .rfloat { float:right; margin-left:0.5em; }
+a.varlink { text-decoration:none; }
+
+--></style>  <meta name='robots' content='noindex,nofollow' />
+
+<script type='text/javascript' language='JavaScript1.2'>
+    var fontSizeDefault = 90;
+    var increment = 10;
+    var cookieName = 'setfontsize';
+    var fsLabel = 'Text Size';
+    var fsBigger = 'bigger';
+    var fsNormal = 'default';
+    var fsSmaller = 'smaller';
+ </script>
+<script type='text/javascript' language='JavaScript1.2' src='../pub/skins/gvcg_fix/fontsizer.js'></script>
+ 
+  <style type='text/css'><!--
+  #sidebarbox { position:fixed; top:0; }
+  --></style>
+  <!--[if lt IE 7]>
+    <style type='text/css'>#sidebarbox {position:absolute; top:expression(eval(document.body.scrollTop))}</style>
+  <![endif]-->  
+  <style type='text/css'><!--
+  #sidebarbox { left:0; width: 175px }
+  #main { top:0; margin:0 0 0 176px; }
+  --></style> 
+  <link href='../pub/skins/gvcg_fix/css/layout-fixflow.css' rel='stylesheet' type='text/css' />
+  <link href='../pub/skins/gvcg_fix/css/layout-main.css' rel='stylesheet' type='text/css' />
+  <style type='text/css' media='all'> @import '../pub/skins/gvcg_fix/css/rightbar.css'; </style>
+  <!--[if IE ]><link href='http://old.gvcalligraphy.org/pub/skins/gvcg_fix/css/layout-ie.css' rel='stylesheet' type='text/css' />
+  <![endif]-->
+  <link rel='stylesheet' href='../pub/skins/gvcg_fix/css/layout-print.css' type='text/css' media='print' />  
+   <link href='../pub/skins/gvcg_fix/css/font-georgia.css' rel='stylesheet' type='text/css' media='screen' />   
+   <link href='../pub/skins/gvcg_fix/css/c-light-yel.css' rel='stylesheet' type='text/css' media='screen' /> 
+  <style type='text/css'><!--
+     #rightbar { width:12em; margin:-1em -1.7em 0.25em 1em; float:right;} 
+  --></style>
+  <!--[if lt IE 7]>
+    <style type='text/css'> #rightbar {margin:-1em -0.8em 0.25em 1em; } </style>
+  <![endif]-->
+  
+
+</head>
+<body >
+    <script type='text/javascript' language='javaScript1.2'>
+    <!--
+       document.cookie = 'javascript=1; path=/';
+       if (fontSize) fontSize.fontSizeInit();
+    --></script>
+<div id='wrapper'>
+<!--PageHeaderFmt-->
+	<div id='header'><!-- empty div: FixFlow has header in sidebar -->
+	</div>
+<!--/PageHeaderFmt-->
+<div id='main'>
+<!--PageTopMenuFmt-->
+		<div id='topnav' class='nav'><div class='lnav' > 
+<ul><li><a class='wikilink' href='../Main/HomePage'>Home</a>
+</li></ul></div>
+<div class='vspace'></div>
+</div>
+<!--/PageTopMenuFmt-->
+		<div class='clearer'><!-- a clearer division --></div>
+<!--PageTitleFmt-->
+		<div id= 'titlebarbox'>
+		 	<div id='titlebar' >
+       
+    		<div id='pagetitle'>
+  			<h1>Genesee Valley Calligraphy Guild<br/><a class='titlelink' href='http://old.gvcalligraphy.org/PmWiki/WikiWikiWeb?action=browse'>Wiki Wiki Web</a></h1>
+	    	</div>
+			</div>
+		</div>
+<!--/PageTitleFmt-->
+		<div id='contentbox'>
+		  <div id='content'>
+<!--PageRightFmt-->
+		   	<div id='rightbar'></div>
+<!--/PageRightFmt-->
+<!--PageText-->
+<div id='wikitext'>
+<p>
+<a name='trailstart' id='trailstart'></a> 
+</p><div style='clear:right;' >
+</div>
+<p><strong>WikiWikiWeb</strong> is an "open-editing" system where the emphasis is on the <em>authoring</em> and <em>collaboration</em> of documents rather than the simple browsing or viewing of them. 
+The name "wiki" is based on the Hawaiian term "wiki wiki", meaning "quick" or "super-fast". 
+The basic concept of a WikiWikiWeb (or "wiki") is that (almost) anyone can edit any page. While at first this sounds like a recipe for complete anarchy, the truth is that sites using this system have developed surprisingly complex and rich communities for online collaboration and communication.  Yes, it's possible for someone to go and destroy everything on a page, but it doesn't seem to happen often.  And, many systems (including this one) have built-in mechanisms to restore content that has been defaced or destroyed.
+</p>
+<p class='vspace'><em>The point of the system is to simply make it as </em>quick<em>, </em>easy<em> and </em>rewarding<em> as possible to create or edit online content.</em>
+</p>
+<p class='vspace'>Using any standard Web browser, a person can edit (almost) any page on the system using relatively simple <a class='wikilink' href='http://old.gvcalligraphy.org/PmWiki/TextFormattingRules'>text formatting rules</a>.  <a class='wikilink' href='http://old.gvcalligraphy.org/PmWiki/Links'>Creating a link</a> to a new or existing page simply involves putting the word or phrase that will be your link text inside [[double square brackets]] to reference and serve as a title for the target page. In the process of creating the link you're <em>creating the new page</em>, if it doesn't already exist.  On some sites (depending on the configuration of PmWiki), a link can also be created by entering a <a class='wikilink' href='http://old.gvcalligraphy.org/PmWiki/WikiWord'>WikiWord</a> -- a word consisting of two or more capitalized words joined together.
+</p>
+<p class='vspace'>It's not necessary to learn all of the formatting rules; others will often come in and reformat things for you.  After all, anyone can edit!  <strong>You</strong> can see some of the <a class='wikilink' href='http://old.gvcalligraphy.org/Site/AllRecentChanges'> recent changes</a> that others have posted to this site.
+</p>
+<p class='vspace'>To learn more about adding pages to this Wiki site, see <a class='wikilink' href='BasicEditing'>basic editing</a>, then try editing pages in the <a class='wikilink' href='http://old.gvcalligraphy.org/Main/WikiSandbox'>WikiSandbox</a>.
+</p>
+<p class='vspace'>If you want to learn more about the WikiWikiWeb concept, try some of these Web sites:
+</p>
+<div class='vspace'></div><ul><li><a target='_blank'  class='urllink' href='http://www.c2.com/cgi/wiki?WikiWikiWeb' rel='nofollow'>Wiki:WikiWikiWeb</a> -- The original WikiWikiWeb
+</li><li><a target='_blank'  class='urllink' href='http://www.usemod.com/cgi-bin/mb.pl?WhyWikiWorks' rel='nofollow'>Meatball:WhyWikiWorks</a> -- how and why Wiki works
+</li><li><a target='_blank'  class='urllink' href='http://www.usemod.com/cgi-bin/mb.pl?SoftSecurity' rel='nofollow'>Meatball:SoftSecurity</a> -- how open editing can result in good Web sites
+</li><li><a target='_blank'  class='urllink' href='http://www.communitywiki.org/cw/CategoryWiki' rel='nofollow'>Wiki</a> on <a target='_blank'  class='urllink' href='http://www.communitywiki.org/en/SiteMap' rel='nofollow'>CommunityWiki</a>
+</li><li><a target='_blank'  class='urllink' href='http://en.wikipedia.org/wiki/Wiki#Characteristics' rel='nofollow'>WikiFeatures</a> -- for info on features in wikis and how to use them
+</li><li><a target='_blank'  class='urllink' href='http://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_is_so_great' rel='nofollow'>Wikipedia:Wikipedia:Why_Wikipedia_is_so_great</a> -- how and why the biggest wiki in the world made a comprehensive free-content encyclopedia
+</li><li><a target='_blank'  class='urllink' href='http://en.wikivoyage.org/wiki/Wikivoyage:Wiki' rel='nofollow'>Wikivoyage:Wiki</a> -- another introduction to wikis, on another exemplary site
+</li></ul><p class='vspace'>Or, send email to Patrick Michaud at <a class='urllink' href='&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#109;&#105;&#099;&#104;&#097;&#117;&#100;&#064;&#112;&#111;&#098;&#111;&#120;&#046;&#099;&#111;&#109;' rel='nofollow'>&#112;&#109;&#105;&#099;&#104;&#097;&#117;&#100;&#064;&#112;&#111;&#098;&#111;&#120;&#046;&#099;&#111;&#109;</a>.
+ 
+<a name='trailend' id='trailend'></a>
+<br clear='all' />
+</p><div  style='background-color: #ffe; border-top: 1px solid black; font-size: .8em;' > 
+<p>This page may have <span class='commentout-pmwikiorg'> a more recent version on <a class='urllink' href='http://www.pmwiki.org' rel='nofollow'>pmwiki.org</a>: <a class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/WikiWikiWeb' rel='nofollow'>PmWiki:WikiWikiWeb</a>, and </span> a talk page: <a class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/WikiWikiWeb-Talk' rel='nofollow'>PmWiki:WikiWikiWeb-Talk</a>.
+</p></div>
+</div>
+
+			<div class='clearer'><!-- a clearer division --></div>
+		  </div>
+		</div>
+<!--PageFootMenuFmt-->
+		<div id ='footnavbox'>
+		  <div id='footnav'><p><br clear='all' />
+</p><div class='indent'><em>Page last modified on June 07, 2014, at 08:50 PM</em>
+</div><div class='vspace'></div>
+</div>
+		</div>
+<!--/PageFootMenuFmt-->
+
+<!--PageFooterFmt-->
+	<div id='footer'>
+		<p><a class='wikilink' href='../Site/FixFlow-Configuration'>skin config</a> <em>** pmwiki-2.2.88 **</em>
+</p>
+
+	</div>
+<!--/PageFooterFmt-->
+</div>
+
+<!--PageLeftFmt-->
+	<div id='sidebarbox'>
+		<div id='sidebar' >
+			
+			<div id='sideheader' class='pageheader'>
+				<div class="img"><a class='urllink' href='../index.html' rel='nofollow'><img src='../pub/skins/gvcg_fix/gvcgpaula.png' alt='' /></a></div>
+
+			</div>
+			<div id='sidebarsearch'>
+			  <form  class='wikisearch' action='WikiWikiWeb' method='get'>
+   <input type='text' name='q' value='Search' class='inputbox searchbox' size='20' 
+    onfocus="preval=this.value; this.value=''" onblur="this.value=preval"  />
+   <input type='submit' class='inputbutton searchbutton' value='Go' />
+   <input type='hidden' name='focus' value='true' />
+   <input type='hidden' name='action' value='search' />
+  </form>
+
+			</div>
+			<div id='sidebarfontsizer'>
+			  <p> 
+    <script type='text/javascript' language='javaScript1.2'>
+    <!--
+      if (fsinit==1) document.write(fontSize.allLinks);
+      else if (fontSize) { 
+          fontSize.fontSizeInit();
+          document.write(fontSize.allLinks); }
+    --></script>  
+ 
+</p>
+
+			</div>
+			<div id='sidebarpage'>
+			  <p class='sidehead'> 
+</p><ul><li><a class='wikilink' href='../Main/AboutUs'>About Us</a> 
+</li><li><a class='wikilink' href='../Main/Membership'>Membership</a>
+</li><li><a class='wikilink' href='../Main/Meetings'>Meetings</a>
+</li><li><a class='wikilink' href='../Main/Library'>Library</a>
+</li><li><a class='wikilink' href='../Main/Exhibits'>Exhibits</a>
+</li><li><a class='wikilink' href='../Main/Gallery'>Gallery</a>
+</li><li><a class='wikilink' href='../Main/Workshops'>Workshops</a>
+</li><li><a class='wikilink' href='../Main/Resources'>Resources</a>
+</li><li><a class='wikilink' href='../Main/Links'>Links</a>
+</li><li><a class='urllink' href='&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#118;&#099;&#097;&#108;&#108;&#105;&#103;&#114;&#097;&#112;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;' rel='nofollow'>&#067;&#111;&#110;&#116;&#097;&#099;&#116;&#032;&#085;&#115;</a>
+</li></ul><div class='vspace'></div>
+
+			</div>
+			<div id="sidebarfooter">
+				<p><a class='wikilink' href='FixFlowSkin'>FixFlowSkin</a><br />powered by <a class='wikilink' href='PmWiki'>PmWiki</a>
+</p>
+
+			</div>
+		</div>
+	</div>
+<!--/PageLeftFmt-->
+
+</div>
+<!--HTMLFooter-->
+</body>
+</html>

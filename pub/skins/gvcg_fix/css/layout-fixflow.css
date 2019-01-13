@@ -1,0 +1,82 @@
+/* CSS Document */
+/* layout-fixflow.css | part of FixFlow skin for PmWiki 2, by Hans Bracker 2006 */
+     
+/* Tested on MS Windows: Firefox, IE6, Netscape 7, Opera 7, 
+  on Mac: IE5.1 and 5.2 for Mac, Safari, Netscape 6, Firefox */ 
+
+/*=== wireframe design aid ==== 
+#main { border:2px dashed green}
+#logo {border:1px dotted orange}
+#topnav {border:1px dotted green}
+#titlebar { border:1px dotted red}
+#leftside { border:1px dotted purple}
+#sidebar { border:1px dashed red}
+#content { border:1px dotted blue}
+#footnav { border:1px dotted red }
+#footer { border:1px solid green}   */
+/*#wikitext { border:1px dotted blue} !-may give wrong results-! */
+/*=== end wireframe design aid ====*/
+
+/* commented out def:values are set in skin.php */
+body{
+  padding: 0; margin: 0;
+  background:url(html:) fixed;
+ }
+#sidebarbox {
+/*  position:fixed;
+  _position:absolute;
+  top:0;
+  _top:expression(eval(document.body.scrollTop));
+  right:0; */
+  margin:0;
+  padding:0;
+  height: 100%;
+/*  width:175px; */
+  font-size:11pt; /* fixed fontsize for sidebar, otherwise fontsizer messes it up */
+ }
+
+#wrapper { margin:0; } 
+
+#main { 
+	/*  top:30px;
+		margin:0; 
+		margin-right:175px; 
+		_width:100%; */
+		}
+
+#content { margin:0 5px 0 5px; 
+	       padding:1em 1.5em 1em 1.5em; 
+	     }
+
+#wikitext { } /* do not give wikitext any styling or borders! */
+
+.clearer {height:1px; clear:both; margin-top:-1px; } 
+
+#footnavbox { margin:0 5px 0.5em 5px;
+			  height:1%;  }
+
+#footer { clear:all; 
+		padding:0.3em 1em; 
+		font-size:1em; }
+		
+#topnav {width:97%;
+		margin:0;
+		}		
+				
+/*============= Group & Title ========================*/
+
+#titlebarbox { margin:0 5px 0 5px; }
+
+#pagegroup { float:left; 
+		margin:0;		 
+		padding:1.2em 0.5em 0 1em; }
+		
+#pagetitle h1 { 
+		text-align:center;
+		margin:0;
+		padding:0 0.5em 0.1em 0; 
+		 }
+#pagegroup a, #pagetitle a { text-decoration:none; } 
+ 
+		 
+/*===== continued in layout-main.css ======*/
